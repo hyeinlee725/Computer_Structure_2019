@@ -1,5 +1,5 @@
-# * Digital Structure
+# Digital Structure
 
-## - Power Point 자료
+## Power Point 자료
 
-## - Lab Code
+## Lab Code
