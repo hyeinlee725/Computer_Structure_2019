@@ -1,3 +1,3 @@
-# Digital Structure
+# Computer Structure
 
 ### Lab Code
