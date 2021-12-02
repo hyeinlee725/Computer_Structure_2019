@@ -1,5 +1,5 @@
 # Computer Structure
-## Design Logic
+## Design Logic Structure
 ### Programming Language : VHDL
 ### Development Environment : Modelsim-Altera & Quartus II
 ### Lab Code
